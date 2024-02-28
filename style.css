@@ -61,6 +61,7 @@ nav ul li{
 }
 .songItemContainer{
     display:flex;
+    height:80%;
     flex-direction: column;
     /* justi */
     /* flex-flow: column wrap; */
